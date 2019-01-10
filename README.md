@@ -39,7 +39,7 @@ npm run build --report
 ``` bash
 commit('setUser', {
   uid: '12222',
-  name: '高军',
+  name: 'gj',
   role: 'user1'
 });
 ``` 
